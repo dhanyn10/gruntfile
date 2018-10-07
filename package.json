@@ -1,7 +1,4 @@
 {
   "author": "Dhany Nurdiansyah",
-  "license": "MIT",
-  "devDependencies": {
-    "grunt": "^1.0.3"
-  }
+  "license": "MIT"
 }
